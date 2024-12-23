@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/JamalKhan56/Dev-Diary/static/css/main.ad77f227.css",
-    "main.js": "/JamalKhan56/Dev-Diary/static/js/main.93cd64d7.js",
-    "static/js/496.28e146e8.chunk.js": "/JamalKhan56/Dev-Diary/static/js/496.28e146e8.chunk.js",
-    "static/media/logoimg.jpg": "/JamalKhan56/Dev-Diary/static/media/logoimg.fb3dbd0eb20e0ba01cf3.jpg",
-    "index.html": "/JamalKhan56/Dev-Diary/index.html",
-    "main.ad77f227.css.map": "/JamalKhan56/Dev-Diary/static/css/main.ad77f227.css.map",
-    "main.93cd64d7.js.map": "/JamalKhan56/Dev-Diary/static/js/main.93cd64d7.js.map",
-    "496.28e146e8.chunk.js.map": "/JamalKhan56/Dev-Diary/static/js/496.28e146e8.chunk.js.map"
+    "main.css": "/Dev-Diary/static/css/main.ad77f227.css",
+    "main.js": "/Dev-Diary/static/js/main.383b8108.js",
+    "static/js/496.28e146e8.chunk.js": "/Dev-Diary/static/js/496.28e146e8.chunk.js",
+    "static/media/logoimg.jpg": "/Dev-Diary/static/media/logoimg.fb3dbd0eb20e0ba01cf3.jpg",
+    "index.html": "/Dev-Diary/index.html",
+    "main.ad77f227.css.map": "/Dev-Diary/static/css/main.ad77f227.css.map",
+    "main.383b8108.js.map": "/Dev-Diary/static/js/main.383b8108.js.map",
+    "496.28e146e8.chunk.js.map": "/Dev-Diary/static/js/496.28e146e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad77f227.css",
-    "static/js/main.93cd64d7.js"
+    "static/js/main.383b8108.js"
   ]
 }
